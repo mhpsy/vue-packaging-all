@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "element-plus": "^2.2.27",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "sass": "^1.57.1",
+    "sass-loader": "^13.2.0"
+  }
+}
